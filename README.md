@@ -54,7 +54,7 @@ I'm an avid gamer and love exploring the intersection of AI and game development
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns7523&theme=github-dark&hide_border=true&card_width=450)
 
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=25&no-frame=true&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=25&no-frame=true&theme=darkhub&margin-h=15)
 
 ## 📄 Most Used Languages
 <div>
