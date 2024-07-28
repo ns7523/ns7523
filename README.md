@@ -1,6 +1,6 @@
 
 # Hello, I'm N S AKASH 👋
-- Can Contact me at [WhatsApp](https://chat.whatsapp.com/GYxCLCx3cfBJTIc4nwGgQr)
+- Contact me on [WhatsApp](https://chat.whatsapp.com/GYxCLCx3cfBJTIc4nwGgQr)
 
 ## 🚀 About Me
 I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With a background in Computer Science from my diploma, I'm passionate about leveraging technology to solve real-world problems. I'm constantly learning and exploring new technologies in the ever-evolving field of AI.
@@ -50,8 +50,17 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 ## ⚡ Fun fact
 I'm an avid gamer and love exploring the intersection of AI and game development!
 
+## 🔥 Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns7523&theme=github-dark&hide_border=true&card_width=450)
+
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=15&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=25&no-frame=true&theme=darkhub)
+
+## 📄 Most Used Languages
 <div>
-  <img height="170" width="270" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns7523&layout=compact" />
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns7523&layout=donut&theme=dark"/>
 </div>
+
+![](https://visitcount.itsvg.in/api?id=ns7523&label=Profile%20Views&color=12&icon=0&pretty=false)
+
+
