@@ -51,7 +51,7 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 I'm an avid gamer and love exploring the intersection of AI and game development!
 
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories,PullRequest&margin-w=15&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=15&no-frame=true)
 <div>
-  <img height="170" width="500" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns7523&layout=compact" />
+  <img height="170" width="270" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns7523&layout=compact" />
 </div>
