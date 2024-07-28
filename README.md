@@ -18,8 +18,11 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 
 ## 🏆 Projects
 - Trust me their number gonna increase!
-### Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized IoT!
-[DDos-attack-in-IoT](https://github.com/ns7523/DDoS-attack-in-IoT-Real-Time-.git)
+#### 1. Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized IoT .
+- [DDos-attack-in-IoT-Real-Time ](https://github.com/ns7523/DDoS-attack-in-IoT-Real-Time-.git) <Linux.>
+- [DDos-attack-in-IoT-Static ](https://github.com/ns7523/DDoS-attack-in-IoT-Static.git) <Windows,Macos,Linux>
+#### 2. A Hybrid feature extraction method with machine learning for detecting the presence of network attacks .
+- [Network-attacks-detection ](https://github.com/ns7523/Network-attacks-detection.git) <Windows,Macos,Linux>
 
 ## 🌱 I'm currently learning
 - Advanced Natural Language Processing
