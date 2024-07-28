@@ -7,7 +7,8 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 
 ## 🎓 Education
 - Pursuing B.Tech in AI & ML (2024-2027) - [UVCE](https://uvce.ac.in/)
-- Diploma in Computer Science & Engineering (2021-2024) - BGS Polytechnic, Chickballapur
+- Diploma in Computer Science & Engineering (2021-2024) - [BGS Polytechnic, Chickballapur](http://www.bgsptech.ac.in/about.html)
+- Primary & Secondary Education (2011-2020) - [LRG Vidyalayam, Hindupur](https://www.lrg.edu.in/#)
 
 ## 💻 Technical Skills
 - Languages: Python, Java, C++
