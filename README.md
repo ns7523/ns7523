@@ -16,7 +16,7 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 - Web Development: HTML, CSS, JavaScript
 - Databases: SQL, MongoDB
 - Tools: Git, Docker, AWS
-
+---
 ## 🏆 Projects
 - Trust me their number gonna increase!
 #### 1. Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized IoT .
@@ -24,7 +24,9 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 - [DDos-attack-in-IoT-Static ](https://github.com/ns7523/DDoS-attack-in-IoT-Static.git) <Windows,Macos,Linux>
 #### 2. A Hybrid feature extraction method with machine learning for detecting the presence of network attacks .
 - [Network-attacks-detection ](https://github.com/ns7523/Network-attacks-detection.git) <Windows,Macos,Linux>
-
+#### 3. An intelligent approach to improving the performance of Threat detection in IOT .
+- [Threat-Detection-in-IoT](https://github.com/ns7523/Threat-Detection-in-IoT.git)
+---
 ## 🌱 I'm currently learning
 - Advanced Natural Language Processing
 - Generative AI models
