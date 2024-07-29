@@ -25,7 +25,7 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 #### 2. A Hybrid feature extraction method with machine learning for detecting the presence of network attacks .
 - [Network-attacks-detection ](https://github.com/ns7523/Network-attacks-detection.git) <Windows,MacOS,Linux>
 #### 3. An intelligent approach to improving the performance of Threat detection in IoT .
-- [Threat-Detection-in-IoT](https://github.com/ns7523/Threat-Detection-in-IoT.git) <Windows,MacOS,Linux
+- [Threat-Detection-in-IoT](https://github.com/ns7523/Threat-Detection-in-IoT.git) <Windows,MacOS,Linux>
 ---
 ## 🌱 I'm currently learning
 - Advanced Natural Language Processing
