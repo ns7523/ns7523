@@ -40,17 +40,21 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 - Infosys springboard - [Drive link]( https://drive.google.com/drive/folders/1vNgThQotODV-gY-_860T0VNkpm5ETiqd?usp=sharing ) 
 
 ## 📫 How to reach me
+
 <p>
-<a href="https://x.com/nsakash7523">
+<a href="https://x.com/nsakash7523" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/user-attachments/assets/f3ec780e-5704-4cf6-afe0-adc4c7a8a9f4" alt="Twitter" width="40" height="40">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nsakash7523"> 
+</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nsakash7523" target="_blank" style="text-decoration: none;"> 
   <img src="https://github.com/user-attachments/assets/a3309884-c2e5-4db0-ba8e-843b3c7bca85" alt="LinkedIn" width="40" height="40">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nsakash752003@gmail.com"> 
+</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nsakash752003@gmail.com" target="_blank" style="text-decoration: none;"> 
   <img src="https://github.com/user-attachments/assets/a127a978-ad67-48fa-9463-6091b97707cc" alt="Gmail" width="40" height="40">
 </a>
 </p>
+
 
 ## 🎯 Goals for 2024
 - Contribute to 5 open-source AI projects
