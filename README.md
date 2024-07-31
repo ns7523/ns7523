@@ -16,6 +16,7 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 - Web Development: HTML, CSS, JavaScript
 - Databases: SQL, MongoDB
 - Tools: Git, Docker, AWS
+- Cyber Security: Network Security, Cryptography, IoT Security, IAM
 ---
 ## 🏆 Projects
 - Trust me their number gonna increase!
