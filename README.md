@@ -40,7 +40,7 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 - Innovative ML applications in healthcare or environmental sustainability
 
 ## 🏅 Certifications
-- <a href="https://drive.google.com/file/d/1ogOy0PekgET0WnolmIf53Wmlm7we7Oqr/view?usp=sharing">Infosys Springboard </a>
+- <a href="https://drive.google.com/file/d/1ogOy0PekgET0WnolmIf53Wmlm7we7Oqr/view?usp=sharing">Infosys Springboard </a>`/infyspringboard.onwingspan.com`
 - <a href="https://drive.google.com/file/d/1Xs_5PYD6ZZJCqViJeAaF31Zs3X7Z8a3e/view?usp=sharing">OOPs in Java  </a>`/mygreatlearning.com`
 - <a href="https://drive.google.com/file/d/1QXaB71CyPazKXXK3dLrWut5_qrQiCW2t/view?usp=sharing">Artificial Intelligence & Cyber Security </a>`/simplilearn.com`
 - <a href="https://drive.google.com/file/d/13fZC9axCgYuBCmkoIZpCBVVuoGVRo29A/view?usp=sharing">Fortinet NSE 1 </a>`/fortinet.com`
