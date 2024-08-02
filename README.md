@@ -29,6 +29,11 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 - [Threat-Detection-in-IoT](https://github.com/ns7523/Threat-Detection-in-IoT.git) <Windows,MacOS,Linux>
 #### 4. Deep Ensemble-based efficient framework for network attack detection .
 - [Deep-Ensemble-Attack-Detection](https://github.com/ns7523/Deep-Ensemble-Attack-Detection.git) <Windows,MacOS,Linux>
+
+## 💼 College Repos
+#### 1. Diploma C20 - Study Materials - Karnataka .
+- [Karnataka-Diploma-CSE](https://github.com/ns7523/Karnataka-Diploma-CSE.git)
+
 ---
 ## 🌱 I'm currently learning
 - Advanced Natural Language Processing
