@@ -75,9 +75,6 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 ## ⚡ Fun fact
 I'm an avid gamer and love exploring the intersection of AI and game development!
 
-## 🔥 Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns7523&theme=github-dark&hide_border=true&card_width=450)
-
 ## 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=15&no-frame=true&theme=darkhub)
 
