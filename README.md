@@ -81,7 +81,7 @@ I'm an avid gamer and love exploring the intersection of AI and game development
 ## 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=45&no-frame=true&theme=darkhub&column=3)
 
-## 📄 Most Used Languages
+## 📄 Most Used
 <div>
       <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns7523&layout=donut&theme=dark"/>
 </div>
