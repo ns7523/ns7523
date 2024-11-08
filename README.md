@@ -75,6 +75,8 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 ## 🔥 Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns7523&theme=github-dark&hide_border=true&card_width=480)
 
+![N S AKASH GITHUB STATS](https://github-readme-stats.vercel.app/api?username=ns723&show_icons=true&theme=dark#gh-dark-mode-only)
+
 ## ⚡ Fun fact
 I'm an avid gamer and love exploring the intersection of AI and game development!
 
