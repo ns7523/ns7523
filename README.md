@@ -73,7 +73,7 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 - Secure an internship at a leading tech company
 
 ## 🔥 Contributions
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns7523&theme=github-dark&hide_border=true&card_width=450)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns7523&theme=github-dark&hide_border=true&card_width=450)
 
 ## ⚡ Fun fact
 I'm an avid gamer and love exploring the intersection of AI and game development!
