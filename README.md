@@ -80,7 +80,7 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 I'm an avid gamer and love exploring the intersection of AI and game development!
 
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=25&no-frame=true&theme=darkhub&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=50&no-frame=true&theme=darkhub&column=3)
 
 ## 📄 Most Used Languages
 <div>
