@@ -75,16 +75,15 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 ## 🔥 Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns7523&theme=github-dark&hide_border=true&card_width=480)
 
-
 ## ⚡ Fun fact
 I'm an avid gamer and love exploring the intersection of AI and game development!
 
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=50&no-frame=true&theme=darkhub&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=45&no-frame=true&theme=darkhub&column=3)
 
 ## 📄 Most Used Languages
 <div>
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns7523&layout=donut&theme=dark"/>
+      <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns7523&layout=donut&theme=dark"/>
 </div>
 
 ![](https://visitcount.itsvg.in/api?id=ns7523&label=Profile%20Views&color=12&icon=0&pretty=false)
