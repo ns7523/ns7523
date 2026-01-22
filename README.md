@@ -67,13 +67,13 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 </a>
 </p>
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2026
 - Contribute to 5 open-source AI projects
 - Publish a research paper in machine learning
 - Secure an internship at a leading tech company
 
 ## 🔥 Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns7523&theme=github-dark&hide_border=true&card_width=480)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ns7523&theme=dark)](https://git.io/streak-stats)
 
 ## ⚡ Fun fact
 I'm an avid gamer and love exploring the intersection of AI and game development!
