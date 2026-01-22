@@ -1,6 +1,6 @@
 
 # Hello, I'm N S AKASH 👋
-- Contact me on [WhatsApp](https://chat.whatsapp.com/GYxCLCx3cfBJTIc4nwGgQr)
+- Contact me on [Mail](contact@nsakash.in)
 
 ## 🚀 About Me
 I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With a background in Computer Science from my diploma, I'm passionate about leveraging technology to solve real-world problems. I'm constantly learning and exploring new technologies in the ever-evolving field of AI.
@@ -77,9 +77,6 @@ I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With 
 
 ## ⚡ Fun fact
 I'm an avid gamer and love exploring the intersection of AI and game development!
-
-## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ns7523&title=Experience,Commits,Repositories&margin-w=45&no-frame=true&theme=darkhub&column=3)
 
 ## 📄 Most Used
 <div>
