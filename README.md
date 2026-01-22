@@ -1,6 +1,6 @@
 
 # Hello, I'm N S AKASH 👋
-- Contact me on [Mail](contact@nsakash.in)
+- Contact me on [Mail](mailto:contact@nsakash.in)
 
 ## 🚀 About Me
 I'm an aspiring AI & ML engineer, currently pursuing my B.Tech in AI & ML. With a background in Computer Science from my diploma, I'm passionate about leveraging technology to solve real-world problems. I'm constantly learning and exploring new technologies in the ever-evolving field of AI.
