@@ -331,7 +331,7 @@ Translating machine learning concepts into practical cybersecurity tools for det
 <a href="https://github.com/ns7523">
   <img src="https://img.shields.io/badge/GitHub-ns7523-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:nsakash752003@gmail.com">
+<a href="mailto:contact@nsakash.in">
   <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/nsakash7523">
