@@ -2,7 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=header&text=N%20S%20Akash&fontColor=F0F6FC&fontSize=42&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20IoT%20Security&descAlignY=62&descSize=14" width="100%" alt="N S Akash" />
 
+<br />
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=F0F6FC&center=true&vCenter=true&width=900&lines=AI+%26+Cybersecurity+Engineer;Security-Focused+AI+Systems+Developer;Research-Oriented+Builder;Intelligent+Secure+Systems+Developer" alt="Typing banner" />
+
+<br />
+<br />
 
 <p>
   <a href="https://github.com/ns7523">
@@ -18,7 +23,11 @@
 
 </div>
 
+<br />
+
 ---
+
+<br />
 
 ## About
 
@@ -26,7 +35,9 @@ I design and build intelligent security systems across artificial intelligence, 
 
 My work focuses on applied machine learning for threat detection, secure automation, network defense, and privacy-aware engineering. I am interested in research-driven development where models, infrastructure, and security systems converge to solve real-world risk problems.
 
-<table>
+<br />
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -55,24 +66,46 @@ My work focuses on applied machine learning for threat detection, secure automat
 </tr>
 </table>
 
+<br />
+
 ---
+
+<br />
 
 ## Technical Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,aws,tensorflow,sklearn,linux,docker,git,bash&theme=dark" alt="Technical stack" />
+
+<img src="https://skillicons.dev/icons?i=python,java,aws,tensorflow,sklearn,linux,docker,git,bash&theme=dark" alt="Technical stack" />
+
 </div>
+
 <br />
 
-| AI / ML | Security | Cloud | Systems |
-| :---: | :---: | :---: | :---: |
-| TensorFlow<br>Scikit-learn<br>Python | Threat Detection<br>Network Security<br>Secure Systems | AWS<br>Cloud Security<br>Deployment | Linux<br>Docker<br>Git |
+<table align="center">
+<tr>
+<td align="center" width="160"><strong>AI / ML</strong></td>
+<td align="center" width="160"><strong>Security</strong></td>
+<td align="center" width="160"><strong>Cloud</strong></td>
+<td align="center" width="160"><strong>Systems</strong></td>
+</tr>
+<tr>
+<td align="center">TensorFlow<br />Scikit-learn<br />Python</td>
+<td align="center">Threat Detection<br />Network Security<br />Secure Systems</td>
+<td align="center">AWS<br />Cloud Security<br />Deployment</td>
+<td align="center">Linux<br />Docker<br />Git</td>
+</tr>
+</table>
+
+<br />
 
 ---
 
+<br />
+
 ## Featured Projects
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -80,10 +113,12 @@ My work focuses on applied machine learning for threat detection, secure automat
 
 AI-powered detection system designed to identify malicious traffic patterns in IoT environments.
 
-**Focus:** IoT Security · Machine Learning · Network Defense
+<strong>Focus:</strong> IoT Security · Machine Learning · Network Defense
+
+<br />
 
 <a href="https://github.com/ns7523/DDoS-attack-in-IoT-Real-Time">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ns7523&repo=DDoS-attack-in-IoT-Real-Time&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC" alt="DDoS Attack Detection in IoT Real Time" />
+  
 </a>
 
 </td>
@@ -93,10 +128,12 @@ AI-powered detection system designed to identify malicious traffic patterns in I
 
 Security analytics project for identifying abnormal and hostile network behavior using intelligent detection logic.
 
-**Focus:** Cybersecurity · Network Analysis · Threat Intelligence
+<strong>Focus:</strong> Cybersecurity · Network Analysis · Threat Intelligence
+
+<br />
 
 <a href="https://github.com/ns7523/Network-attacks-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ns7523&repo=Network-attacks-detection&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC" alt="Network Attack Detection" />
+  
 </a>
 
 </td>
@@ -108,10 +145,12 @@ Security analytics project for identifying abnormal and hostile network behavior
 
 Research-oriented systems for detecting, classifying, and responding to security threats across digital environments.
 
-**Focus:** Applied ML · Security Engineering · Detection Systems
+<strong>Focus:</strong> Applied ML · Security Engineering · Detection Systems
+
+<br />
 
 <a href="https://github.com/ns7523/Threat-Detection-in-IoT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ns7523&repo=Threat-Detection-in-IoT&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC" alt="Threat Detection in IoT" />
+  
 </a>
 
 </td>
@@ -121,77 +160,135 @@ Research-oriented systems for detecting, classifying, and responding to security
 
 Efficient ensemble-based framework for detecting sophisticated network attack patterns.
 
-**Focus:** Deep Learning · Intrusion Detection · Security AI
+<strong>Focus:</strong> Deep Learning · Intrusion Detection · Security AI
+
+<br />
 
 <a href="https://github.com/ns7523/Deep-Ensemble-Attack-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ns7523&repo=Deep-Ensemble-Attack-Detection&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC" alt="Deep Ensemble Attack Detection" />
+  
 </a>
 
 </td>
 </tr>
 </table>
 
+<br />
+
 ### Security Utilities
 
-| Password Manager | USB Drive Malware Scanner | Smart USB Port Lock |
-| :--- | :--- | :--- |
-| Secure credential storage concept focused on privacy, encryption, and user-controlled access. | Endpoint security utility for inspecting removable media and identifying suspicious files. | Access-control system for restricting unauthorized USB device usage on protected systems. |
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+<strong>Password Manager with Secure Vault</strong>
+
+Secure credential storage concept focused on privacy, encryption, and user-controlled access.
+
+</td>
+<td width="33%" valign="top">
+
+<strong>USB Drive Malware Scanner</strong>
+
+Endpoint security utility for inspecting removable media and identifying suspicious files.
+
+</td>
+<td width="33%" valign="top">
+
+<strong>Smart USB Port Lock</strong>
+
+Access-control system for restricting unauthorized USB device usage on protected systems.
+
+</td>
+</tr>
+</table>
+
+<br />
 
 ---
 
+<br />
+
 ## Research & Innovation
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
 ### Intelligent Detection
+
 Building ML-assisted systems that classify anomalous behavior, malicious patterns, and emerging attack signals.
 
 </td>
 <td width="33%" valign="top">
 
 ### Secure Infrastructure
+
 Exploring resilient architectures for cloud-connected and IoT-driven systems with security-first engineering principles.
 
 </td>
 <td width="33%" valign="top">
 
 ### Applied Security AI
+
 Translating machine learning concepts into practical cybersecurity tools for detection, automation, and response.
 
 </td>
 </tr>
 </table>
 
-> **Research Direction:** AI-assisted cybersecurity systems for IoT, network defense, and secure automation.
+<br />
+
+<div align="center">
+
+<strong>Research Direction:</strong> AI-assisted cybersecurity systems for IoT, network defense, and secure automation.
+
+</div>
+
+<br />
 
 ---
+
+<br />
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ns7523&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=ns7523&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=F0F6FC&fire=8B949E&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=ns7523&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=F0F6FC&fire=8B949E&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+
 </div>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns7523&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top Languages" />
+
+
+
 </div>
 
+<br />
+
 ---
+
+<br />
 
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ns7523&theme=github-compact&hide_border=true&bg_color=0D1117&color=E6EDF3&line=8B949E&point=F0F6FC&area=true&area_color=21262D" alt="Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ns7523&theme=github-compact&hide_border=true&bg_color=0D1117&color=E6EDF3&line=8B949E&point=F0F6FC&area=true&area_color=21262D" alt="Contribution Graph" />
+
 </div>
+
+<br />
 
 ---
 
+<br />
+
 ## Current Focus
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -216,14 +313,19 @@ Translating machine learning concepts into practical cybersecurity tools for det
 </tr>
 </table>
 
+<br />
+
 ---
+
+<br />
 
 ## Contact
 
 <div align="center">
 
-**Open to research collaboration, security engineering projects, and AI-driven cybersecurity work.**
+<strong>Open to research collaboration, security engineering projects, and AI-driven cybersecurity work.</strong>
 
+<br />
 <br />
 
 <a href="https://github.com/ns7523">
@@ -238,6 +340,10 @@ Translating machine learning concepts into practical cybersecurity tools for det
 
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=90&section=footer" width="100%" alt="Footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=90&section=footer" width="100%" alt="Footer" />
+
 </div>
