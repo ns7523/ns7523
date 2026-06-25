@@ -9,9 +9,6 @@
 <br />
 <br />
 
-<a href="https://github.com/ns7523">
-  <img src="https://img.shields.io/badge/GitHub-ns7523-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
-</a>
 <a href="https://www.nsakash.in">
   <img src="https://img.shields.io/badge/Portfolio-nsakash.in-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="Portfolio" />
 </a>
