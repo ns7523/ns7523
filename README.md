@@ -55,109 +55,112 @@ I learn by building software that runs publicly, fails visibly, and improves thr
 
 ## Current Systems / Active Builds
 
-### NSDDOS
-
-Distributed telemetry ingestion platform for DDoS detection research in SDN and IoT-style environments.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FACC15&labelColor=111827" alt="Python" />
-  <img src="https://img.shields.io/badge/SDN-0F172A?style=flat-square&logo=cisco&logoColor=60A5FA&labelColor=111827" alt="SDN" />
-  <img src="https://img.shields.io/badge/Networking-0F172A?style=flat-square&logo=protocolsdotio&logoColor=93C5FD&labelColor=111827" alt="Networking" />
-  <img src="https://img.shields.io/badge/PyPI-0F172A?style=flat-square&logo=pypi&logoColor=FACC15&labelColor=111827" alt="PyPI" />
-  <img src="https://img.shields.io/badge/CI-0F172A?style=flat-square&logo=githubactions&logoColor=60A5FA&labelColor=111827" alt="CI" />
-</p>
-
-- SDN-aware traffic analysis using Floodlight, sFlowRT, Mininet, and Open vSwitch
-- Attack simulation and mitigation orchestration with runtime verification loops
-- Operator-facing runtime monitoring for observability and control
-- Packaged through PyPI with CI workflow integration
-
-<p align="left">
-  <a href="https://github.com/ns7523/nsddos">
-    <img src="https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Repo" />
-  </a>
-  <a href="https://pypi.org/project/nsddos/">
-    <img src="https://img.shields.io/badge/PyPI-0F172A?style=for-the-badge&logo=pypi&logoColor=FACC15&labelColor=111827" alt="PyPI" />
-  </a>
-  <a href="https://github.com/ns7523/nsddos/actions/workflows/lint.yml">
-    <img src="https://img.shields.io/badge/CI-0F172A?style=for-the-badge&logo=githubactions&logoColor=60A5FA&labelColor=111827" alt="CI" />
-  </a>
-</p>
-
-### ScribbleQ / HWTE
-
-OCR pipeline for handwritten text extraction and structured document processing.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OCR-0F172A?style=flat-square&logo=tesseract&logoColor=F8FAFC&labelColor=111827" alt="OCR" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&logo=opencv&logoColor=60A5FA&labelColor=111827" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=flat-square&logo=tensorflow&logoColor=F59E0B&labelColor=111827" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Structured%20Output-0F172A?style=flat-square&logo=json&logoColor=93C5FD&labelColor=111827" alt="Structured Output" />
-</p>
-
-- Document preprocessing for cleaner inference input
-- Computer vision and OCR flow for handwritten text extraction
-- Post-processing pipeline for structured text output
-- Built for downstream reuse in digitization and document intelligence tasks
-
-<p align="left">
-  <a href="https://scribbleq.streamlit.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-166534?style=for-the-badge&logo=vercel&logoColor=white&labelColor=15803D" alt="Live Demo" />
-  </a>
-  <a href="https://www.nsakash.in/projects.html">
-    <img src="https://img.shields.io/badge/Project-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Project" />
-  </a>
-  <a href="https://www.nsakash.in/research.html">
-    <img src="https://img.shields.io/badge/Research-581C87?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=6B21A8" alt="Research" />
-  </a>
-</p>
-
-### CareerPulse AI
-
-Resume scoring and feedback pipeline with public inference delivery.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NLP-0F172A?style=flat-square&logo=spacy&logoColor=93C5FD&labelColor=111827" alt="NLP" />
-  <img src="https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&logo=streamlit&logoColor=F43F5E&labelColor=111827" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Inference-0F172A?style=flat-square&logo=python&logoColor=FACC15&labelColor=111827" alt="Inference" />
-  <img src="https://img.shields.io/badge/Scoring-0F172A?style=flat-square&logo=bookstack&logoColor=60A5FA&labelColor=111827" alt="Scoring" />
-</p>
-
-- Structured resume parsing for analysis-ready input
-- Model-driven scoring logic and feedback generation flow
-- NLP-style processing for revision guidance output
-- Deployed as runnable application for public access
-
-<p align="left">
-  <a href="https://github.com/ns7523/CareerPulse-AI">
-    <img src="https://img.shields.io/badge/Source-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Source" />
-  </a>
-  <a href="https://careerpulseai.streamlit.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-166534?style=for-the-badge&logo=vercel&logoColor=white&labelColor=15803D" alt="Live Demo" />
-  </a>
-  <a href="https://www.nsakash.in/research.html">
-    <img src="https://img.shields.io/badge/Research-581C87?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=6B21A8" alt="Research" />
-  </a>
-</p>
-
-### CraftIQ
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Automation-0F172A?style=flat-square&logo=gnubash&logoColor=F8FAFC&labelColor=111827" alt="Automation" />
-  <img src="https://img.shields.io/badge/AI%20Systems-0F172A?style=flat-square&logo=openai&logoColor=60A5FA&labelColor=111827" alt="AI Systems" />
-  <img src="https://img.shields.io/badge/Software%20Delivery-0F172A?style=flat-square&logo=gitlab&logoColor=F59E0B&labelColor=111827" alt="Software Delivery" />
-</p>
-
-Independent software initiative focused on applied AI systems and automation workflows.
-
-<p align="left">
-  <a href="https://www.nsakash.in/craftiq.html">
-    <img src="https://img.shields.io/badge/CraftIQ-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="CraftIQ" />
-  </a>
-  <a href="https://www.nsakash.in/resume.html">
-    <img src="https://img.shields.io/badge/Resume-E34F26?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>NSDDOS</h3>
+      <p>Distributed telemetry ingestion platform for DDoS detection research in SDN and IoT-style environments.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FACC15&labelColor=111827" alt="Python" />
+        <img src="https://img.shields.io/badge/SDN-0F172A?style=flat-square&logo=cisco&logoColor=60A5FA&labelColor=111827" alt="SDN" />
+        <img src="https://img.shields.io/badge/Networking-0F172A?style=flat-square&logo=protocolsdotio&logoColor=93C5FD&labelColor=111827" alt="Networking" />
+        <img src="https://img.shields.io/badge/PyPI-0F172A?style=flat-square&logo=pypi&logoColor=FACC15&labelColor=111827" alt="PyPI" />
+        <img src="https://img.shields.io/badge/CI-0F172A?style=flat-square&logo=githubactions&logoColor=60A5FA&labelColor=111827" alt="CI" />
+      </p>
+      <ul>
+        <li>SDN-aware traffic analysis across Floodlight, sFlowRT, Mininet, and Open vSwitch</li>
+        <li>Mitigation orchestration with runtime verification and operator-facing monitoring</li>
+        <li>Packaged through PyPI with CI workflow integration</li>
+      </ul>
+      <p align="left">
+        <a href="https://github.com/ns7523/nsddos">
+          <img src="https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Repo" />
+        </a>
+        <a href="https://pypi.org/project/nsddos/">
+          <img src="https://img.shields.io/badge/PyPI-0F172A?style=for-the-badge&logo=pypi&logoColor=FACC15&labelColor=111827" alt="PyPI" />
+        </a>
+        <a href="https://github.com/ns7523/nsddos/actions/workflows/lint.yml">
+          <img src="https://img.shields.io/badge/CI-0F172A?style=for-the-badge&logo=githubactions&logoColor=60A5FA&labelColor=111827" alt="CI" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ScribbleQ / HWTE</h3>
+      <p>OCR pipeline for handwritten text extraction and structured document processing.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/OCR-0F172A?style=flat-square&logo=tesseract&logoColor=F8FAFC&labelColor=111827" alt="OCR" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&logo=opencv&logoColor=60A5FA&labelColor=111827" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=flat-square&logo=tensorflow&logoColor=F59E0B&labelColor=111827" alt="Deep Learning" />
+        <img src="https://img.shields.io/badge/Structured%20Output-0F172A?style=flat-square&logo=json&logoColor=93C5FD&labelColor=111827" alt="Structured Output" />
+      </p>
+      <ul>
+        <li>Document preprocessing for cleaner inference input</li>
+        <li>Computer vision and OCR flow for handwritten extraction</li>
+        <li>Post-processing into structured text for downstream reuse</li>
+      </ul>
+      <p align="left">
+        <a href="https://scribbleq.streamlit.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-166534?style=for-the-badge&logo=vercel&logoColor=white&labelColor=15803D" alt="Live Demo" />
+        </a>
+        <a href="https://www.nsakash.in/projects.html">
+          <img src="https://img.shields.io/badge/Project-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Project" />
+        </a>
+        <a href="https://www.nsakash.in/research.html">
+          <img src="https://img.shields.io/badge/Research-581C87?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=6B21A8" alt="Research" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CareerPulse AI</h3>
+      <p>Resume scoring and feedback pipeline with public inference delivery.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/NLP-0F172A?style=flat-square&logo=spacy&logoColor=93C5FD&labelColor=111827" alt="NLP" />
+        <img src="https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&logo=streamlit&logoColor=F43F5E&labelColor=111827" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Inference-0F172A?style=flat-square&logo=python&logoColor=FACC15&labelColor=111827" alt="Inference" />
+        <img src="https://img.shields.io/badge/Scoring-0F172A?style=flat-square&logo=bookstack&logoColor=60A5FA&labelColor=111827" alt="Scoring" />
+      </p>
+      <ul>
+        <li>Structured resume parsing for analysis-ready input</li>
+        <li>Model-driven scoring logic and feedback generation flow</li>
+        <li>Deployed as runnable application for public access</li>
+      </ul>
+      <p align="left">
+        <a href="https://github.com/ns7523/CareerPulse-AI">
+          <img src="https://img.shields.io/badge/Source-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Source" />
+        </a>
+        <a href="https://careerpulseai.streamlit.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-166534?style=for-the-badge&logo=vercel&logoColor=white&labelColor=15803D" alt="Live Demo" />
+        </a>
+        <a href="https://www.nsakash.in/research.html">
+          <img src="https://img.shields.io/badge/Research-581C87?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=6B21A8" alt="Research" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CraftIQ</h3>
+      <p>Independent software initiative focused on applied AI systems and automation workflows.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Automation-0F172A?style=flat-square&logo=gnubash&logoColor=F8FAFC&labelColor=111827" alt="Automation" />
+        <img src="https://img.shields.io/badge/AI%20Systems-0F172A?style=flat-square&logo=openai&logoColor=60A5FA&labelColor=111827" alt="AI Systems" />
+        <img src="https://img.shields.io/badge/Software%20Delivery-0F172A?style=flat-square&logo=gitlab&logoColor=F59E0B&labelColor=111827" alt="Software Delivery" />
+      </p>
+      <ul>
+        <li>Applied AI and automation work shaped by real delivery constraints</li>
+        <li>Built through iteration, public release, and continuous refinement</li>
+      </ul>
+      <p align="left">
+        <a href="https://www.nsakash.in/craftiq.html">
+          <img src="https://img.shields.io/badge/CraftIQ-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="CraftIQ" />
+        </a>
+        <a href="https://www.nsakash.in/resume.html">
+          <img src="https://img.shields.io/badge/Resume-E34F26?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Technical Stack
 <table>
