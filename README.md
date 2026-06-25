@@ -76,7 +76,7 @@ My work focuses on applied machine learning for threat detection, secure automat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,aws,tensorflow,sklearn,linux,docker,git,bash&theme=dark" alt="Technical stack" />
+<img src="https://skillicons.dev/icons?i=python,java,aws,tensorflow,sklearn,linux,docker,git&theme=dark" alt="Technical stack" />
 
 </div>
 
