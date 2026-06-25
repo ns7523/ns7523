@@ -91,7 +91,6 @@ I learn by building software that runs publicly, fails visibly, and improves thr
         <img src="https://img.shields.io/badge/OCR-0F172A?style=flat-square&logo=tesseract&logoColor=F8FAFC&labelColor=111827" alt="OCR" />
         <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&logo=opencv&logoColor=60A5FA&labelColor=111827" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=flat-square&logo=tensorflow&logoColor=F59E0B&labelColor=111827" alt="Deep Learning" />
-        <img src="https://img.shields.io/badge/Structured%20Output-0F172A?style=flat-square&logo=json&logoColor=93C5FD&labelColor=111827" alt="Structured Output" />
       </p>
       <ul>
         <li>Document preprocessing for cleaner inference input</li>
