@@ -259,7 +259,7 @@ Interested in engineering conversations around software systems, infrastructure,
 <a href="https://www.nsakash.in">
   <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="Portfolio" />
 </a>
-<a href="mailto:contact@nsakash.in">
+<a href="mailto:nsakash752003@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/nsakash7523">
