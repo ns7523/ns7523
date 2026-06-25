@@ -26,7 +26,6 @@
 <br />
 
 <img src="https://img.shields.io/badge/Live%20Products-3+-0F172A?style=flat-square&logo=vercel&logoColor=60A5FA&labelColor=111827" alt="Live Products" />
-<img src="https://img.shields.io/badge/Public%20Deployments-AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=F59E0B&labelColor=111827" alt="AWS Deployed" />
 <img src="https://img.shields.io/badge/Research%20Outputs-8+-0F172A?style=flat-square&logo=googlescholar&logoColor=93C5FD&labelColor=111827" alt="Research Outputs" />
 <img src="https://img.shields.io/badge/PyPI-Published-0F172A?style=flat-square&logo=pypi&logoColor=FACC15&labelColor=111827" alt="PyPI Published" />
 <img src="https://img.shields.io/badge/CI-Integrated-0F172A?style=flat-square&logo=githubactions&logoColor=60A5FA&labelColor=111827" alt="CI Integrated" />
